@@ -1,5 +1,3 @@
-# aw-test-task
-
 ## Project setup
 ```
 npm install
